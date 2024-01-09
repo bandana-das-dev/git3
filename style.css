@@ -636,7 +636,7 @@ input {
 =================================================================== */
 
 .top-bar-area.inc-border {
-  border-bottom: 5px solid #ff5e14;
+  border-bottom: 5px solid #e52328;
 }
 
 .top-bar-area .info.box li {
@@ -663,7 +663,7 @@ input {
 
 .top-bar-area .info.box li .icon {
   border: 1px solid rgba(255, 255, 255, 0.1);
-  color: #ff5e14;
+  color: #e52328;
   font-size: 30px;
   padding: 15px;
 }
